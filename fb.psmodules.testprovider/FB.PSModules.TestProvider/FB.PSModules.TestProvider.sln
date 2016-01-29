@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FB.PSModules.TestProvider", "FB.PSModules.TestProvider.csproj", "{864FEB15-15EB-4D68-9DF1-3FE926970513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{260ED3D7-17FB-4442-A42F-90E729B87521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864FEB15-15EB-4D68-9DF1-3FE926970513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864FEB15-15EB-4D68-9DF1-3FE926970513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864FEB15-15EB-4D68-9DF1-3FE926970513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864FEB15-15EB-4D68-9DF1-3FE926970513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260ED3D7-17FB-4442-A42F-90E729B87521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260ED3D7-17FB-4442-A42F-90E729B87521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260ED3D7-17FB-4442-A42F-90E729B87521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260ED3D7-17FB-4442-A42F-90E729B87521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
